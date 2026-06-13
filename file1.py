@@ -1,3 +1,7 @@
-import numpy as np
-print("numpy is installed")
-print("check for pands:")
+class B
+{
+  public static void main(String arn[])
+{
+  System.out.print("hello");
+}
+}
